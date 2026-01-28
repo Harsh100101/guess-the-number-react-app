@@ -29,5 +29,6 @@ npm run web
 ```
 
 Notes:
+
 - This project was scaffolded with Expo.
 - Consider adding CI and linting for a production repo.
